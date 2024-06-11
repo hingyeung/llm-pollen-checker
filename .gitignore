@@ -1,0 +1,43 @@
+# Python
+*.py[cod]
+*.pyo
+*.pyd
+__pycache__
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+*.egg-info/
+*.eggs/
+*.pyc
+*.pyo
+*.pyd
+*.pyz
+*.pyz[co]
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+*.egg-info/
+*.eggs/
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# IDEs
+.vscode/
+.idea/
+
+# OS
+.DS_Store
